@@ -1,6 +1,6 @@
 {
   "name": "ui-grid-fit-columns",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This ui-grid plugin automatically sets the widths of the columns to fit their content.",
   "main": "index.js",
   "scripts": {
