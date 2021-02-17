@@ -1,0 +1,25 @@
+{
+  "name": "ui-grid-fit-columns",
+  "version": "0.0.1",
+  "description": "This ui-grid plugin automatically sets the widths of the columns to fit their content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhasenfuss/ui-grid-fit-columns.git"
+  },
+  "keywords": [
+    "ui-grid",
+    "angularjs",
+    "fit-columns",
+    "fit-widths"
+  ],
+  "author": "Jonathan Hasenfuß",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhasenfuss/ui-grid-fit-columns/issues"
+  },
+  "homepage": "https://github.com/jhasenfuss/ui-grid-fit-columns#readme"
+}
