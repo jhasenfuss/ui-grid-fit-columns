@@ -165,7 +165,7 @@
                         }
                     });
 
-                    const width = optimalWidths[columnKey] + gridMetrics.getPadding() + gridMetrics.getBorder();
+                    const width = optimalWidths[columnKey] + gridMetrics.getPadding() + gridMetrics.getBorder() + 15;
                     column.colDef.width =
                         Math.max(column.colDef.minWidth || UiGridFitColumnsService.minColWidth, width);
 
